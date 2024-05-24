@@ -1,1 +1,1 @@
-https://dhijinchandran.github.io/adc-medical/
+https://dhijinchandran.github.io/adc-medical.github.io/
